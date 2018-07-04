@@ -1,0 +1,22 @@
+/*通用*/
+html{height:100%;}
+*{ margin:0; padding:0;}
+body{font:14px "microsoft yahei", Arial, Helvetica, sans-serif;color:#000; background:#FFF; height:100%; min-height:670px;}
+a{text-decoration:none;  text-shadow:none;font-weight:normal;}
+input{outline:none;-webkit-appearance:none; font-family:"微软雅黑";}
+a{color:#6c6c6c;text-decoration:none;}
+
+/****************登录注册****************/
+.Login{ background:url(../images/background01.jpg) no-repeat center; background-size:1920px auto; min-width:1200px; position:relative;}
+.Login_k{ padding-left:57%; width:43%; min-width:515px; margin-top:130px;}
+.Login_T{ border-bottom:1px solid #6092ce; color:#FFF; font-size:16px; position:relative; padding:10px 0;}
+.Login_T p{ position:absolute; background:#00b4ff; height:2px; width:60px; bottom:-1px; left:0;}
+.Login_dl{ width:334px; padding-top:10px;}
+.Login_row{background:rgba(255,255,255,0.15); border:1px solid #FFF; border-radius:3px; margin-top:30px; height:52px; width:332px;}
+.Login_input{ padding-left:62px; padding-right:20px; width:250px; color:#FFF; font-size:14px; background:none; border:none;height:52px; line-height:52px;}
+.Login_inp1{ background:url(../images/icon_01.png) no-repeat 20px center;}
+.Login_inp2{ background:url(../images/icon_02.png) no-repeat 20px center;}
+input.Login_input::-webkit-input-placeholder {color: #FFF;}
+a.Login_dla{ background:#00aeff;width:334px;border-radius:3px;margin-bottom:30px;height:52px;line-height:52px; font-size:14px; color:#FFF; text-align:center; display:block; margin-top:25px;}
+a.Login_dla:hover{ text-shadow:0 0 5px #FFF;}
+
